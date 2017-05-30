@@ -1,0 +1,23 @@
+{
+  "name": "gulptest",
+  "description": "Gulp Test",
+  "main": "gulpfile.js",
+  "authors": [
+    "Leo Rapirap"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.2.1",
+    "react": "^15.5.4",
+    "font-awesome": "^4.7.0"
+  }
+}
